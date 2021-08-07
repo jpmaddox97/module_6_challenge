@@ -18,7 +18,8 @@
 ### Dependancies: Python Anaconda Distribution, Hvplot, Mapbox api toke
 **To succesfully run this code your best option would be to use the anaconda distrobution of python. The code snippet below shows how to install hvplot. The second link below gives a tutorial on getting the mapbox api access keys.**
 
-# Installing hvplot - In your bash terminal run the following line of code.
+# Installing hvplot 
+**In your bash terminal run the following line of code.**
 ```bash:
 pip install hvplot
 ```
