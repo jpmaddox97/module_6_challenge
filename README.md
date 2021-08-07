@@ -4,7 +4,7 @@
 >"Data can tell a story when shown correctly."
 
 ## Directory
-[Main Code](Starter_Code/financial_planning_tools.ipynb)
+[Main Code](Starter_Code/san_francisco_housing.ipynb)
 
 [Graph - Housing Units](images/housing_units_year.JPG)
 
