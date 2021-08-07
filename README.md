@@ -5,9 +5,13 @@
 
 ## Directory
 [Main Code](Starter_Code/financial_planning_tools.ipynb)
+
 [Graph - Housing Units](images/housing_units_year.jpg)
+
 [Graph - Price Square Foot](images/price_sqfoot_year.jpg)
+
 [Graph - Price per Year (Neighborhood)](images/price_year_neighborhood.jpg)
+
 [Graph - Price Square Foot (Mapped)](images/price_sqfoot_map.jpg)
 
 
