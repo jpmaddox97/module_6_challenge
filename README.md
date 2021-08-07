@@ -6,13 +6,13 @@
 ## Directory
 [Main Code](Starter_Code/financial_planning_tools.ipynb)
 
-[Graph - Housing Units](images/housing_units_year.jpg)
+[Graph - Housing Units](images/housing_units_year.JPG)
 
-[Graph - Price Square Foot](images/price_sqfoot_year.jpg)
+[Graph - Price Square Foot](images/price_sqfoot_year.JPG)
 
-[Graph - Price per Year (Neighborhood)](images/price_year_neighborhood.jpg)
+[Graph - Price per Year (Neighborhood)](images/price_year_neighborhood.JPG)
 
-[Graph - Price Square Foot (Mapped)](images/price_sqfoot_map.jpg)
+[Graph - Price Square Foot (Mapped)](images/price_sqfoot_map.JPG)
 
 
 ### Dependancies: Python Anaconda Distribution, Hvplot, Mapbox api toke
